@@ -93,12 +93,12 @@
 ||amazon-adsystem.com^
 ||reminders-pa.googleapis.com^
 ||instagram.com^
-||unagi-na.amazon.com^
+||unagi-na.amazon.com
 ||885e2dd94adb263c2321d2d0f3778d18523bce4a.ipv4.cws.conviva.com^
 ||885e2dd94adb263c2321d2d0f3778d18523bce4a.ipv6.cws.conviva.com^
 ||ssl.google-analytics.com^
 ||csp.walmart.com^
-||unagi.amazon.com^
+||unagi.amazon.com
 ||global.cmcs.service.amazonsilk.com^
 ||log.go.com^
 ||adobe.com^
@@ -134,7 +134,7 @@
 ||firebaselogging.googleapis.com^
 ||scontent.ftpa1-2.fna.fbcdn.net^
 ||omtrdc.net^
-||device-metrics-us-2.amazon.com^
+||device-metrics-us-2.amazon.com
 ||braze.com^
 ||connect.facebook.net^
 ||emb-api.com^
@@ -168,7 +168,7 @@
 ||browser.events.data.msn.com^
 ||deff.nelreports.net^
 ||api.firwinds.site^
-||aax-us-iad.amazon.com^
+||aax-us-iad.amazon.com
 ||sb.scorecardresearch.com^
 ||sdk.iad-06.braze.com^
 ||lptag-cdn.liveperson.net^
@@ -264,8 +264,8 @@
 ||video-edge-3f3e4f.pdx01.abs.hls.ttvnw.net^
 ||mqtt-mini.facebook.com^
 ||rubiconproject.com^
-||aan.amazon.com^
-||metrics.media-amazon.com^
+||aan.amazon.com
+||metrics.media-amazon.com
 ||static.klaviyo.com^
 ||t.paypal.com^
 ||capitaloneservices.tt.omtrdc.net^
@@ -471,7 +471,7 @@
 ||rpxnow.com^
 ||py45d5n7kxc67cmlj469bmgoju5qa1700197868.uaid.imrworldwide.com^
 ||mmyg9ntvdew5wwmjk0dwdc9trxie21700153952.uaid.imrworldwide.com^
-||device-messaging-na.amazon.com^
+||device-messaging-na.amazon.com
 ||m.yap.yahoo.com^
 ||firebasestorage.googleapis.com^
 ||cdn.piano.io^
@@ -713,7 +713,7 @@
 ||tk.anythinktech.com^
 ||thimatic-apps.com^
 ||drfdisvc.walmart.com^
-||devicemessaging.us-east-1.amazon.com^
+||devicemessaging.us-east-1.amazon.com
 ||brands.kmsmep.com^
 ||storage.cloud.kargo.com^
 ||o95242.ingest.sentry.io^
@@ -1117,7 +1117,7 @@
 ||identity.mparticle.com^
 ||htg9aegag6e8tdkxasysgm533v8xh1705107652.uaid.imrworldwide.com^
 ||graph.digiseller.ru^
-||device-metrics-us.amazon.com^
+||device-metrics-us.amazon.com
 ||choices.truste.com^
 ||charter.tt.omtrdc.net^
 ||champagne.futurecdn.net^
@@ -1238,7 +1238,7 @@
 ||roirevolution.com^
 ||q6nt232olebiszcdxjz6d63clkcla1703165352.uaid.imrworldwide.com^
 ||pavlov-prod.healthline.com^
-||mads.amazon.com^
+||mads.amazon.com
 ||js.klevu.com^
 ||hgxk51entrdmrx5yitvv23g901zpn1703507814.uaid.imrworldwide.com^
 ||cdn.mouseflow.com^
@@ -2934,7 +2934,7 @@
 ||ba2s14e59n3m6prslq4bxvrkwfnxj1700195984.uaid.imrworldwide.com^
 ||b0oliv6r8p3sd8tu3l6dbixfsmiu11703320844.uaid.imrworldwide.com^
 ||asw22.000webhostapp.com^
-||assoc-fe.associates-amazon.com^
+||assoc-fe.associates-amazon.com
 ||assdw339.000webhostapp.com^
 ||ar.000webhost.com^
 ||allxyzblog.000webhostapp.com^
@@ -3092,7 +3092,7 @@
 ||jptof0l1x00c8qfquf64mzixbm6951705276276.uaid.imrworldwide.com^
 ||jf.10010.com^
 ||jezailmasking.com^
-||ipv6.unagi-na.amazon.com^
+||ipv6.unagi-na.amazon.com
 ||invisus.com^
 ||ing-district.clicktale.net^
 ||impact.com^
@@ -3486,7 +3486,7 @@
 ||ad-thd-east.tagdelivery.com^
 ||accounts.nvgs.nvidia.com^
 ||ac.dun.163yun.com^
-||aax-us-east-retail-direct.amazon.com^
+||aax-us-east-retail-direct.amazon.com
 ||aa.agkn.com^
 ||7moor.com^
 ||7fb6f12dd2.17dc91dc49.com^
