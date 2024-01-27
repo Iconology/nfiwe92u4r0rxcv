@@ -8586,3 +8586,4 @@
 ||www.tracker-software.com^
 ||cfsxljacbkcrfsseh4am4-us-east-2.r.nflxso.net^
 ||cfsuksxk4zv6tipdjn4n6-us-east-2.r.nflxso.net^
+||amazon.com/empty.gif?
