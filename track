@@ -7241,7 +7241,6 @@
 
 # Start of uber aggressive list
 # Tracking
-
 ||sdk.split.io^
 ||split.io^
 ||assets.msn.com^
@@ -16106,3 +16105,17 @@
 ||rupload.facebook.com^
 ||vcs-va.tiktokv.com^
 ||flyer.harborfreight.com^
+||unagi-na.amazon.com
+||unagi.amazon.com
+||device-metrics-us-2.amazon.com
+||aax-us-iad.amazon.com
+||aan.amazon.com
+||metrics.media-amazon.com
+||device-messaging-na.amazon.com
+||devicemessaging.us-east-1.amazon.com
+||device-metrics-us.amazon.com
+||mads.amazon.com
+||assoc-fe.associates-amazon.com
+||ipv6.unagi-na.amazon.com
+||aax-us-east-retail-direct.amazon.com
+||amazon.com/empty.gif?
