@@ -5893,7 +5893,6 @@
 ||pdxor02.com^
 ||tag.yieldoptimizer.com^
 ||smetrics.directline.com^
-||i5.walmartimages.com^
 ||track.ziprecruiter.com^
 ||client-uc.heytapmobi.com^
 ||nan46ysangt28eec.com^
